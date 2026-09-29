@@ -1,0 +1,19 @@
+:root {
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  line-height: 1.5;
+  color: #1f2937;
+  background: #f5f7fa;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: #409eff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #79bbff;
+}
